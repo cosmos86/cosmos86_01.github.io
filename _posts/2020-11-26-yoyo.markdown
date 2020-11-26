@@ -1,0 +1,6 @@
+---
+layout: post
+---
+<img src="{{ site.baseurl }}/images/pic03.jpg">
+요래하면 글써지는거얌?
+
